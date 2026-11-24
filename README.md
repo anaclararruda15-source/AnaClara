@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Estudante de Análise e Desenvolvimento de Sistemas, em desenvolvimento contínuo na área de tecnologia, ampliando conhecimentos em sistemas e ferramentas tecnológicas. Organizada, comprometida e com interesse em crescimento profissional, busca novos desafios para desenvolver experiência prática e agregar valor à empresa. 
+Estudante de Análise e Desenvolvimento de Sistemas, em desenvolvimento contínuo na área de tecnologia, ampliando conhecimentos em sistemas e ferramentas tecnológicas. Organizada, comprometida e com interesse em crescimento profissional, busca novos desafios para desenvolver novas técnologias  
 ---
 
 ### 🤖 Linguagens e Tecnologias
