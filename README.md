@@ -31,25 +31,4 @@ Estudante de Análise e Desenvolvimento de Sistemas, em desenvolvimento contínu
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<br>
 
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-    
-  />
-
-</p>
