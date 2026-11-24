@@ -38,6 +38,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, em desenvolvimento contínu
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg](https://cdn-icons-png.flaticon.com/128/1199/1199128.png)" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nY6atWpKkBqSAWxooARPFVJ_rzz9U-_hkYg99rqiww&s=10" 
 />
 
