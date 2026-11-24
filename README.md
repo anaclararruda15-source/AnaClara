@@ -3,25 +3,6 @@
 **`Desenvolvedora FullStack`**
 
 Estudante de Análise e Desenvolvimento de Sistemas, em desenvolvimento contínuo na área de tecnologia, ampliando conhecimentos em sistemas e ferramentas tecnológicas. Organizada, comprometida e com interesse em crescimento profissional, busca novos desafios para desenvolver experiência prática e agregar valor à empresa. 
-
-<p align="left">
-    <
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
